@@ -5,5 +5,7 @@ export default defineConfig({
     global: 'window',
  
   },
+
+  
 });
 
